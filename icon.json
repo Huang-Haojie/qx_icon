@@ -4,11 +4,11 @@
   "icons":
   [
     {"name":"claude", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/claude.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"},
-    {"name":"comm", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/comm.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"},
-    {"name":"dlsite", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/dlsite.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"},
-    {"name":"eh", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/eh.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"},
-    {"name":"eroge", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/eroge.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"},
-    {"name":"girigiri", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/girigiri.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"},
-    {"name":"netease", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/netease.png?token=GHSAT0AAAAAADNKJ5E6VHIEDOCSC4MTXIPE2HRSFYA"}
+    {"name":"comm", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/comm.png?token=GHSAT0AAAAAADNKJ5E7T74O6E7RV24T4XXO2HRSINQ"},
+    {"name":"dlsite", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/dlsite.png?token=GHSAT0AAAAAADNKJ5E7K6A64FQYFBJUR73Q2HRSIZQ"},
+    {"name":"eh", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/eh.png?token=GHSAT0AAAAAADNKJ5E655CLJL5B3YC4W7A22HRSJEA"},
+    {"name":"eroge", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/eroge.png?token=GHSAT0AAAAAADNKJ5E6Z7TLRZG72JBOBMH62HRSJRA"},
+    {"name":"girigiri", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/girigiri.png?token=GHSAT0AAAAAADNKJ5E6DZSHHWTT7HIBEVWM2HRSJ2Q"},
+    {"name":"netease", "url":"https://raw.githubusercontent.com/Huang-Haojie/qx_icon/refs/heads/main/icon/netease.png?token=GHSAT0AAAAAADNKJ5E7DLVF7MG3R2MKPH2C2HRSKDA"}
   ]
 }
