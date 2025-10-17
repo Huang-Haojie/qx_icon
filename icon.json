@@ -1,6 +1,6 @@
 {
-  "name":"Package Name",
-  "description":"This is a sample.",
+  "name":"peronal_icon",
+  "description":"None",
   "icons":
   [
     {"name":"claude", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/claude.PNG"},
