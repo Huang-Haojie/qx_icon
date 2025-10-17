@@ -1,0 +1,14 @@
+{
+  "name":"Package Name",
+  "description":"This is a sample.",
+  "icons":
+  [
+    {"name":"claude", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/claude.PNG"},
+    {"name":"comm", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/comm.PNG"},
+    {"name":"dlsite", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/dlsite.PNG"},
+    {"name":"eh", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/eh.PNG"},
+    {"name":"eroge", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/eroge.PNG"},
+    {"name":"girigiri", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/girigiri.PNG"},
+    {"name":"netease", "url":"https:\/\/raw.githubusercontent.com\/Huang-Haojie\/qx_icon\/main\/icon\/netease.PNG"}
+  ]
+}
